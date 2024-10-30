@@ -1,2 +1,2 @@
-# kunal-demo
+# ochi
 this is my first repository
